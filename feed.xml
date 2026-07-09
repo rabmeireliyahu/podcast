@@ -4757,11 +4757,461 @@
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
+      <title>איוב - פרק א</title>
+      <description>איוב - פרק א</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/119_20260703/he_nach_iyov1.mp3" length="3607006" type="audio/mpeg"/>
+      <guid isPermaLink="false">he_nach_iyov1.mp3</guid>
+      <pubDate>Wed, 08 Mar 2023 03:00:00 -0000</pubDate>
+      <itunes:duration>00:15:01</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>איוב - פרק ב</title>
+      <description>איוב - פרק ב</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/119_20260703/he_nach_iyov2.mp3" length="1966975" type="audio/mpeg"/>
+      <guid isPermaLink="false">he_nach_iyov2.mp3</guid>
+      <pubDate>Wed, 08 Mar 2023 06:00:00 -0000</pubDate>
+      <itunes:duration>00:08:11</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>איוב - פרק ג</title>
+      <description>איוב - פרק ג</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/119_20260703/he_nach_iyov3.mp3" length="3059677" type="audio/mpeg"/>
+      <guid isPermaLink="false">he_nach_iyov3.mp3</guid>
+      <pubDate>Wed, 08 Mar 2023 09:00:00 -0000</pubDate>
+      <itunes:duration>00:12:44</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>איוב - פרק ד</title>
+      <description>איוב - פרק ד</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/119_20260703/he_nach_iyov4.mp3" length="2406460" type="audio/mpeg"/>
+      <guid isPermaLink="false">he_nach_iyov4.mp3</guid>
+      <pubDate>Wed, 08 Mar 2023 12:00:00 -0000</pubDate>
+      <itunes:duration>00:10:01</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>איוב - פרק ה</title>
+      <description>איוב - פרק ה</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/119_20260703/he_nach_iyov5.mp3" length="4416321" type="audio/mpeg"/>
+      <guid isPermaLink="false">he_nach_iyov5.mp3</guid>
+      <pubDate>Wed, 08 Mar 2023 15:00:00 -0000</pubDate>
+      <itunes:duration>00:18:23</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>איוב - פרק ו</title>
+      <description>איוב - פרק ו</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/119_20260703/he_nach_iyov6.mp3" length="2863758" type="audio/mpeg"/>
+      <guid isPermaLink="false">he_nach_iyov6.mp3</guid>
+      <pubDate>Wed, 08 Mar 2023 18:00:00 -0000</pubDate>
+      <itunes:duration>00:11:55</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>איוב - פרק ז</title>
+      <description>איוב - פרק ז</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/119_20260703/he_nach_iyov7.mp3" length="2684767" type="audio/mpeg"/>
+      <guid isPermaLink="false">he_nach_iyov7.mp3</guid>
+      <pubDate>Wed, 08 Mar 2023 21:00:00 -0000</pubDate>
+      <itunes:duration>00:11:11</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>איוב - פרק ח</title>
+      <description>איוב - פרק ח</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/119_20260703/he_nach_iyov8.mp3" length="2916892" type="audio/mpeg"/>
+      <guid isPermaLink="false">he_nach_iyov8.mp3</guid>
+      <pubDate>Thu, 09 Mar 2023 00:00:00 -0000</pubDate>
+      <itunes:duration>00:12:09</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>איוב - פרק ט</title>
+      <description>איוב - פרק ט</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/119_20260703/he_nach_iyov9.mp3" length="3598166" type="audio/mpeg"/>
+      <guid isPermaLink="false">he_nach_iyov9.mp3</guid>
+      <pubDate>Thu, 09 Mar 2023 03:00:00 -0000</pubDate>
+      <itunes:duration>00:14:59</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>איוב - פרק י</title>
+      <description>איוב - פרק י</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/119_20260703/he_nach_iyov10.mp3" length="3134335" type="audio/mpeg"/>
+      <guid isPermaLink="false">he_nach_iyov10.mp3</guid>
+      <pubDate>Thu, 09 Mar 2023 06:00:00 -0000</pubDate>
+      <itunes:duration>00:13:03</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>איוב - פרק יא</title>
+      <description>איוב - פרק יא</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/119_20260703/he_nach_iyov11.mp3" length="2833456" type="audio/mpeg"/>
+      <guid isPermaLink="false">he_nach_iyov11.mp3</guid>
+      <pubDate>Thu, 09 Mar 2023 09:00:00 -0000</pubDate>
+      <itunes:duration>00:11:48</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>איוב - פרק יב</title>
+      <description>איוב - פרק יב</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/119_20260703/he_nach_iyov12.mp3" length="3205806" type="audio/mpeg"/>
+      <guid isPermaLink="false">he_nach_iyov12.mp3</guid>
+      <pubDate>Thu, 09 Mar 2023 12:00:00 -0000</pubDate>
+      <itunes:duration>00:13:21</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>איוב - פרק יג</title>
+      <description>איוב - פרק יג</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/119_20260703/he_nach_iyov13.mp3" length="3579253" type="audio/mpeg"/>
+      <guid isPermaLink="false">he_nach_iyov13.mp3</guid>
+      <pubDate>Thu, 09 Mar 2023 15:00:00 -0000</pubDate>
+      <itunes:duration>00:14:54</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>איוב - פרק יד</title>
+      <description>איוב - פרק יד</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/119_20260703/he_nach_iyov14.mp3" length="2534877" type="audio/mpeg"/>
+      <guid isPermaLink="false">he_nach_iyov14.mp3</guid>
+      <pubDate>Thu, 09 Mar 2023 18:00:00 -0000</pubDate>
+      <itunes:duration>00:10:33</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>איוב - פרק טו</title>
+      <description>איוב - פרק טו</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/119_20260703/he_nach_iyov15.mp3" length="4010325" type="audio/mpeg"/>
+      <guid isPermaLink="false">he_nach_iyov15.mp3</guid>
+      <pubDate>Thu, 09 Mar 2023 21:00:00 -0000</pubDate>
+      <itunes:duration>00:16:42</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>איוב - פרק טז</title>
+      <description>איוב - פרק טז</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/119_20260703/he_nach_iyov16.mp3" length="2576882" type="audio/mpeg"/>
+      <guid isPermaLink="false">he_nach_iyov16.mp3</guid>
+      <pubDate>Fri, 10 Mar 2023 00:00:00 -0000</pubDate>
+      <itunes:duration>00:10:44</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>איוב - פרק יז</title>
+      <description>איוב - פרק יז</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/119_20260703/he_nach_iyov17.mp3" length="2548461" type="audio/mpeg"/>
+      <guid isPermaLink="false">he_nach_iyov17.mp3</guid>
+      <pubDate>Fri, 10 Mar 2023 03:00:00 -0000</pubDate>
+      <itunes:duration>00:10:37</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>איוב - פרק יח</title>
+      <description>איוב - פרק יח</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/119_20260703/he_nach_iyov18.mp3" length="2666482" type="audio/mpeg"/>
+      <guid isPermaLink="false">he_nach_iyov18.mp3</guid>
+      <pubDate>Fri, 10 Mar 2023 06:00:00 -0000</pubDate>
+      <itunes:duration>00:11:06</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>איוב - פרק יט</title>
+      <description>איוב - פרק יט</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/119_20260703/he_nach_iyov19.mp3" length="4151491" type="audio/mpeg"/>
+      <guid isPermaLink="false">he_nach_iyov19.mp3</guid>
+      <pubDate>Fri, 10 Mar 2023 09:00:00 -0000</pubDate>
+      <itunes:duration>00:17:17</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>איוב - פרק כא</title>
+      <description>איוב - פרק כא</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/119_20260703/he_nach_iyov21.mp3" length="3939743" type="audio/mpeg"/>
+      <guid isPermaLink="false">he_nach_iyov21.mp3</guid>
+      <pubDate>Fri, 10 Mar 2023 12:00:00 -0000</pubDate>
+      <itunes:duration>00:16:24</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>איוב - פרק כב</title>
+      <description>איוב - פרק כב</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/119_20260703/he_nach_iyov22.mp3" length="3179893" type="audio/mpeg"/>
+      <guid isPermaLink="false">he_nach_iyov22.mp3</guid>
+      <pubDate>Fri, 10 Mar 2023 15:00:00 -0000</pubDate>
+      <itunes:duration>00:13:14</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>איוב - פרק כג</title>
+      <description>איוב - פרק כג</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/119_20260703/he_nach_iyov23.mp3" length="1686629" type="audio/mpeg"/>
+      <guid isPermaLink="false">he_nach_iyov23.mp3</guid>
+      <pubDate>Fri, 10 Mar 2023 18:00:00 -0000</pubDate>
+      <itunes:duration>00:07:01</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>איוב - פרק כד</title>
+      <description>איוב - פרק כד</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/119_20260703/he_nach_iyov24.mp3" length="3478420" type="audio/mpeg"/>
+      <guid isPermaLink="false">he_nach_iyov24.mp3</guid>
+      <pubDate>Fri, 10 Mar 2023 21:00:00 -0000</pubDate>
+      <itunes:duration>00:14:29</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>איוב - פרק כה</title>
+      <description>איוב - פרק כה</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/119_20260703/he_nach_iyov25.mp3" length="1003266" type="audio/mpeg"/>
+      <guid isPermaLink="false">he_nach_iyov25.mp3</guid>
+      <pubDate>Sat, 11 Mar 2023 00:00:00 -0000</pubDate>
+      <itunes:duration>00:04:10</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>איוב - פרק כו</title>
+      <description>איוב - פרק כו</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/119_20260703/he_nach_iyov26.mp3" length="1851514" type="audio/mpeg"/>
+      <guid isPermaLink="false">he_nach_iyov26.mp3</guid>
+      <pubDate>Sat, 11 Mar 2023 03:00:00 -0000</pubDate>
+      <itunes:duration>00:07:42</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>איוב - פרק כז</title>
+      <description>איוב - פרק כז</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/119_20260703/he_nach_iyov27.mp3" length="3015740" type="audio/mpeg"/>
+      <guid isPermaLink="false">he_nach_iyov27.mp3</guid>
+      <pubDate>Sat, 11 Mar 2023 06:00:00 -0000</pubDate>
+      <itunes:duration>00:12:33</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>איוב - פרק כח</title>
+      <description>איוב - פרק כח</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/119_20260703/he_nach_iyov28.mp3" length="4553307" type="audio/mpeg"/>
+      <guid isPermaLink="false">he_nach_iyov28.mp3</guid>
+      <pubDate>Sat, 11 Mar 2023 09:00:00 -0000</pubDate>
+      <itunes:duration>00:18:58</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>איוב - פרק כט</title>
+      <description>איוב - פרק כט</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/119_20260703/he_nach_iyov29.mp3" length="2188650" type="audio/mpeg"/>
+      <guid isPermaLink="false">he_nach_iyov29.mp3</guid>
+      <pubDate>Sat, 11 Mar 2023 12:00:00 -0000</pubDate>
+      <itunes:duration>00:09:07</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>איוב - פרק ל</title>
+      <description>איוב - פרק ל</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/119_20260703/he_nach_iyov30.mp3" length="3034495" type="audio/mpeg"/>
+      <guid isPermaLink="false">he_nach_iyov30.mp3</guid>
+      <pubDate>Sat, 11 Mar 2023 15:00:00 -0000</pubDate>
+      <itunes:duration>00:12:38</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>איוב - פרק לא</title>
+      <description>איוב - פרק לא</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/119_20260703/he_nach_iyov31.mp3" length="4406655" type="audio/mpeg"/>
+      <guid isPermaLink="false">he_nach_iyov31.mp3</guid>
+      <pubDate>Sat, 11 Mar 2023 18:00:00 -0000</pubDate>
+      <itunes:duration>00:18:21</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>איוב - פרק לב</title>
+      <description>איוב - פרק לב</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/119_20260703/he_nach_iyov32.mp3" length="2561836" type="audio/mpeg"/>
+      <guid isPermaLink="false">he_nach_iyov32.mp3</guid>
+      <pubDate>Sat, 11 Mar 2023 21:00:00 -0000</pubDate>
+      <itunes:duration>00:10:40</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>איוב - פרק לג</title>
+      <description>איוב - פרק לג</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/119_20260703/he_nach_iyov33.mp3" length="3163906" type="audio/mpeg"/>
+      <guid isPermaLink="false">he_nach_iyov33.mp3</guid>
+      <pubDate>Sun, 12 Mar 2023 00:00:00 -0000</pubDate>
+      <itunes:duration>00:13:10</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>איוב - פרק לד</title>
+      <description>איוב - פרק לד</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/119_20260703/he_nach_iyov34.mp3" length="4948487" type="audio/mpeg"/>
+      <guid isPermaLink="false">he_nach_iyov34.mp3</guid>
+      <pubDate>Sun, 12 Mar 2023 03:00:00 -0000</pubDate>
+      <itunes:duration>00:20:37</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>איוב - פרק לה</title>
+      <description>איוב - פרק לה</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/119_20260703/he_nach_iyov35.mp3" length="2949284" type="audio/mpeg"/>
+      <guid isPermaLink="false">he_nach_iyov35.mp3</guid>
+      <pubDate>Sun, 12 Mar 2023 06:00:00 -0000</pubDate>
+      <itunes:duration>00:12:17</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>איוב - פרק לו</title>
+      <description>איוב - פרק לו</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/119_20260703/he_nach_iyov36.mp3" length="3250475" type="audio/mpeg"/>
+      <guid isPermaLink="false">he_nach_iyov36.mp3</guid>
+      <pubDate>Sun, 12 Mar 2023 09:00:00 -0000</pubDate>
+      <itunes:duration>00:13:32</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>איוב - פרק לז</title>
+      <description>איוב - פרק לז</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/119_20260703/he_nach_iyov37.mp3" length="3025927" type="audio/mpeg"/>
+      <guid isPermaLink="false">he_nach_iyov37.mp3</guid>
+      <pubDate>Sun, 12 Mar 2023 12:00:00 -0000</pubDate>
+      <itunes:duration>00:12:36</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>איוב - פרק לח</title>
+      <description>איוב - פרק לח</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/119_20260703/he_nach_iyov38.mp3" length="3922084" type="audio/mpeg"/>
+      <guid isPermaLink="false">he_nach_iyov38.mp3</guid>
+      <pubDate>Sun, 12 Mar 2023 15:00:00 -0000</pubDate>
+      <itunes:duration>00:16:20</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>איוב - פרק לט</title>
+      <description>איוב - פרק לט</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/119_20260703/he_nach_iyov39.mp3" length="3108109" type="audio/mpeg"/>
+      <guid isPermaLink="false">he_nach_iyov39.mp3</guid>
+      <pubDate>Sun, 12 Mar 2023 18:00:00 -0000</pubDate>
+      <itunes:duration>00:12:56</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>איוב - פרק מ</title>
+      <description>איוב - פרק מ</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/119_20260703/he_nach_iyov40.mp3" length="3249588" type="audio/mpeg"/>
+      <guid isPermaLink="false">he_nach_iyov40.mp3</guid>
+      <pubDate>Sun, 12 Mar 2023 21:00:00 -0000</pubDate>
+      <itunes:duration>00:13:32</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>איוב - פרק מא</title>
+      <description>איוב - פרק מא</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/119_20260703/he_nach_iyov41.mp3" length="2515024" type="audio/mpeg"/>
+      <guid isPermaLink="false">he_nach_iyov41.mp3</guid>
+      <pubDate>Mon, 13 Mar 2023 00:00:00 -0000</pubDate>
+      <itunes:duration>00:10:28</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>איוב - פרק מב</title>
+      <description>איוב - פרק מב</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/119_20260703/he_nach_iyov42.mp3" length="3149382" type="audio/mpeg"/>
+      <guid isPermaLink="false">he_nach_iyov42.mp3</guid>
+      <pubDate>Mon, 13 Mar 2023 03:00:00 -0000</pubDate>
+      <itunes:duration>00:13:07</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>שיר השירים</title>
+      <description>שיר השירים</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/119_20260703/he_nach_shir_hashirim0.mp3" length="2670557" type="audio/mpeg"/>
+      <guid isPermaLink="false">he_nach_shir_hashirim0.mp3</guid>
+      <pubDate>Mon, 13 Mar 2023 06:00:00 -0000</pubDate>
+      <itunes:duration>00:11:07</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>שיר השירים - פרק א</title>
+      <description>שיר השירים - פרק א</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/119_20260703/he_nach_shir_hashirim1.mp3" length="3157114" type="audio/mpeg"/>
+      <guid isPermaLink="false">he_nach_shir_hashirim1.mp3</guid>
+      <pubDate>Mon, 13 Mar 2023 09:00:00 -0000</pubDate>
+      <itunes:duration>00:13:09</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>שיר השירים - פרק ב</title>
+      <description>שיר השירים - פרק ב</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/119_20260703/he_nach_shir_hashirim2.mp3" length="2679178" type="audio/mpeg"/>
+      <guid isPermaLink="false">he_nach_shir_hashirim2.mp3</guid>
+      <pubDate>Mon, 13 Mar 2023 12:00:00 -0000</pubDate>
+      <itunes:duration>00:11:09</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>שיר השירים - פרק ג</title>
+      <description>שיר השירים - פרק ג</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/119_20260703/he_nach_shir_hashirim3.mp3" length="2010130" type="audio/mpeg"/>
+      <guid isPermaLink="false">he_nach_shir_hashirim3.mp3</guid>
+      <pubDate>Mon, 13 Mar 2023 15:00:00 -0000</pubDate>
+      <itunes:duration>00:08:22</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>שיר השירים - פרק ד</title>
+      <description>שיר השירים - פרק ד</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/119_20260703/he_nach_shir_hashirim4.mp3" length="3243945" type="audio/mpeg"/>
+      <guid isPermaLink="false">he_nach_shir_hashirim4.mp3</guid>
+      <pubDate>Mon, 13 Mar 2023 18:00:00 -0000</pubDate>
+      <itunes:duration>00:13:30</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>שיר השירים - פרק ה</title>
+      <description>שיר השירים - פרק ה</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/119_20260703/he_nach_shir_hashirim5.mp3" length="3406531" type="audio/mpeg"/>
+      <guid isPermaLink="false">he_nach_shir_hashirim5.mp3</guid>
+      <pubDate>Mon, 13 Mar 2023 21:00:00 -0000</pubDate>
+      <itunes:duration>00:14:11</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>שיר השירים - פרק ו</title>
+      <description>שיר השירים - פרק ו</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/119_20260703/he_nach_shir_hashirim6.mp3" length="2567269" type="audio/mpeg"/>
+      <guid isPermaLink="false">he_nach_shir_hashirim6.mp3</guid>
+      <pubDate>Tue, 14 Mar 2023 00:00:00 -0000</pubDate>
+      <itunes:duration>00:10:41</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>שיר השירים - פרק ז</title>
+      <description>שיר השירים - פרק ז</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/119_20260703/he_nach_shir_hashirim7.mp3" length="3003828" type="audio/mpeg"/>
+      <guid isPermaLink="false">he_nach_shir_hashirim7.mp3</guid>
+      <pubDate>Tue, 14 Mar 2023 03:00:00 -0000</pubDate>
+      <itunes:duration>00:12:30</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>שיר השירים - פרק ח</title>
+      <description>שיר השירים - פרק ח</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/119_20260703/he_nach_shir_hashirim8.mp3" length="3492631" type="audio/mpeg"/>
+      <guid isPermaLink="false">he_nach_shir_hashirim8.mp3</guid>
+      <pubDate>Tue, 14 Mar 2023 06:00:00 -0000</pubDate>
+      <itunes:duration>00:14:33</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>he nach mishley21</title>
       <description>he nach mishley21</description>
       <enclosure url="https://op3.dev/e/https://archive.org/download/119_20260703/he_nach_mishley21.mp3" length="2829068" type="audio/mpeg"/>
       <guid isPermaLink="false">he_nach_mishley21.mp3</guid>
-      <pubDate>Wed, 08 Mar 2023 03:00:00 -0000</pubDate>
+      <pubDate>Tue, 14 Mar 2023 09:00:00 -0000</pubDate>
       <itunes:duration>00:11:47</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
@@ -4770,7 +5220,7 @@
       <description>he nach mishley1</description>
       <enclosure url="https://op3.dev/e/https://archive.org/download/119_20260703/he_nach_mishley1.mp3" length="4071451" type="audio/mpeg"/>
       <guid isPermaLink="false">he_nach_mishley1.mp3</guid>
-      <pubDate>Wed, 08 Mar 2023 06:00:00 -0000</pubDate>
+      <pubDate>Tue, 14 Mar 2023 12:00:00 -0000</pubDate>
       <itunes:duration>00:16:57</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
@@ -4779,7 +5229,7 @@
       <description>he nach mishley2</description>
       <enclosure url="https://op3.dev/e/https://archive.org/download/119_20260703/he_nach_mishley2.mp3" length="2118642" type="audio/mpeg"/>
       <guid isPermaLink="false">he_nach_mishley2.mp3</guid>
-      <pubDate>Wed, 08 Mar 2023 09:00:00 -0000</pubDate>
+      <pubDate>Tue, 14 Mar 2023 15:00:00 -0000</pubDate>
       <itunes:duration>00:08:49</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
@@ -4788,7 +5238,7 @@
       <description>he nach mishley3</description>
       <enclosure url="https://op3.dev/e/https://archive.org/download/119_20260703/he_nach_mishley3.mp3" length="3423615" type="audio/mpeg"/>
       <guid isPermaLink="false">he_nach_mishley3.mp3</guid>
-      <pubDate>Wed, 08 Mar 2023 12:00:00 -0000</pubDate>
+      <pubDate>Tue, 14 Mar 2023 18:00:00 -0000</pubDate>
       <itunes:duration>00:14:15</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
@@ -4797,7 +5247,7 @@
       <description>he nach mishley4</description>
       <enclosure url="https://op3.dev/e/https://archive.org/download/119_20260703/he_nach_mishley4.mp3" length="2934916" type="audio/mpeg"/>
       <guid isPermaLink="false">he_nach_mishley4.mp3</guid>
-      <pubDate>Wed, 08 Mar 2023 15:00:00 -0000</pubDate>
+      <pubDate>Tue, 14 Mar 2023 21:00:00 -0000</pubDate>
       <itunes:duration>00:12:13</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
@@ -4806,7 +5256,7 @@
       <description>he nach mishley5</description>
       <enclosure url="https://op3.dev/e/https://archive.org/download/119_20260703/he_nach_mishley5.mp3" length="2869401" type="audio/mpeg"/>
       <guid isPermaLink="false">he_nach_mishley5.mp3</guid>
-      <pubDate>Wed, 08 Mar 2023 18:00:00 -0000</pubDate>
+      <pubDate>Wed, 15 Mar 2023 00:00:00 -0000</pubDate>
       <itunes:duration>00:11:57</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
@@ -4815,7 +5265,7 @@
       <description>he nach mishley6</description>
       <enclosure url="https://op3.dev/e/https://archive.org/download/119_20260703/he_nach_mishley6.mp3" length="3283598" type="audio/mpeg"/>
       <guid isPermaLink="false">he_nach_mishley6.mp3</guid>
-      <pubDate>Wed, 08 Mar 2023 21:00:00 -0000</pubDate>
+      <pubDate>Wed, 15 Mar 2023 03:00:00 -0000</pubDate>
       <itunes:duration>00:13:40</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
@@ -4824,7 +5274,7 @@
       <description>he nach mishley7</description>
       <enclosure url="https://op3.dev/e/https://archive.org/download/119_20260703/he_nach_mishley7.mp3" length="2291572" type="audio/mpeg"/>
       <guid isPermaLink="false">he_nach_mishley7.mp3</guid>
-      <pubDate>Thu, 09 Mar 2023 00:00:00 -0000</pubDate>
+      <pubDate>Wed, 15 Mar 2023 06:00:00 -0000</pubDate>
       <itunes:duration>00:09:32</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
@@ -4833,7 +5283,7 @@
       <description>he nach mishley8</description>
       <enclosure url="https://op3.dev/e/https://archive.org/download/119_20260703/he_nach_mishley8.mp3" length="2714442" type="audio/mpeg"/>
       <guid isPermaLink="false">he_nach_mishley8.mp3</guid>
-      <pubDate>Thu, 09 Mar 2023 03:00:00 -0000</pubDate>
+      <pubDate>Wed, 15 Mar 2023 09:00:00 -0000</pubDate>
       <itunes:duration>00:11:18</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
@@ -4842,7 +5292,7 @@
       <description>he nach mishley9</description>
       <enclosure url="https://op3.dev/e/https://archive.org/download/119_20260703/he_nach_mishley9.mp3" length="1843729" type="audio/mpeg"/>
       <guid isPermaLink="false">he_nach_mishley9.mp3</guid>
-      <pubDate>Thu, 09 Mar 2023 06:00:00 -0000</pubDate>
+      <pubDate>Wed, 15 Mar 2023 12:00:00 -0000</pubDate>
       <itunes:duration>00:07:40</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
@@ -4851,7 +5301,7 @@
       <description>he nach mishley10</description>
       <enclosure url="https://op3.dev/e/https://archive.org/download/119_20260703/he_nach_mishley10.mp3" length="3506371" type="audio/mpeg"/>
       <guid isPermaLink="false">he_nach_mishley10.mp3</guid>
-      <pubDate>Thu, 09 Mar 2023 09:00:00 -0000</pubDate>
+      <pubDate>Wed, 15 Mar 2023 15:00:00 -0000</pubDate>
       <itunes:duration>00:14:36</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
@@ -4860,7 +5310,7 @@
       <description>he nach mishley11</description>
       <enclosure url="https://op3.dev/e/https://archive.org/download/119_20260703/he_nach_mishley11.mp3" length="3150060" type="audio/mpeg"/>
       <guid isPermaLink="false">he_nach_mishley11.mp3</guid>
-      <pubDate>Thu, 09 Mar 2023 12:00:00 -0000</pubDate>
+      <pubDate>Wed, 15 Mar 2023 18:00:00 -0000</pubDate>
       <itunes:duration>00:13:07</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
@@ -4869,7 +5319,7 @@
       <description>he nach mishley12</description>
       <enclosure url="https://op3.dev/e/https://archive.org/download/119_20260703/he_nach_mishley12.mp3" length="2665437" type="audio/mpeg"/>
       <guid isPermaLink="false">he_nach_mishley12.mp3</guid>
-      <pubDate>Thu, 09 Mar 2023 15:00:00 -0000</pubDate>
+      <pubDate>Wed, 15 Mar 2023 21:00:00 -0000</pubDate>
       <itunes:duration>00:11:06</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
@@ -4878,7 +5328,7 @@
       <description>he nach mishley13</description>
       <enclosure url="https://op3.dev/e/https://archive.org/download/119_20260703/he_nach_mishley13.mp3" length="2820604" type="audio/mpeg"/>
       <guid isPermaLink="false">he_nach_mishley13.mp3</guid>
-      <pubDate>Thu, 09 Mar 2023 18:00:00 -0000</pubDate>
+      <pubDate>Thu, 16 Mar 2023 00:00:00 -0000</pubDate>
       <itunes:duration>00:11:45</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
@@ -4887,7 +5337,7 @@
       <description>he nach mishley14</description>
       <enclosure url="https://op3.dev/e/https://archive.org/download/119_20260703/he_nach_mishley14.mp3" length="3516924" type="audio/mpeg"/>
       <guid isPermaLink="false">he_nach_mishley14.mp3</guid>
-      <pubDate>Thu, 09 Mar 2023 21:00:00 -0000</pubDate>
+      <pubDate>Thu, 16 Mar 2023 03:00:00 -0000</pubDate>
       <itunes:duration>00:14:39</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
@@ -4896,7 +5346,7 @@
       <description>he nach mishley15</description>
       <enclosure url="https://op3.dev/e/https://archive.org/download/119_20260703/he_nach_mishley15.mp3" length="2766583" type="audio/mpeg"/>
       <guid isPermaLink="false">he_nach_mishley15.mp3</guid>
-      <pubDate>Fri, 10 Mar 2023 00:00:00 -0000</pubDate>
+      <pubDate>Thu, 16 Mar 2023 06:00:00 -0000</pubDate>
       <itunes:duration>00:11:31</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
@@ -4905,7 +5355,7 @@
       <description>he nach mishley16</description>
       <enclosure url="https://op3.dev/e/https://archive.org/download/119_20260703/he_nach_mishley16.mp3" length="3941153" type="audio/mpeg"/>
       <guid isPermaLink="false">he_nach_mishley16.mp3</guid>
-      <pubDate>Fri, 10 Mar 2023 03:00:00 -0000</pubDate>
+      <pubDate>Thu, 16 Mar 2023 09:00:00 -0000</pubDate>
       <itunes:duration>00:16:25</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
@@ -4914,7 +5364,7 @@
       <description>he nach mishley17</description>
       <enclosure url="https://op3.dev/e/https://archive.org/download/119_20260703/he_nach_mishley17.mp3" length="3391014" type="audio/mpeg"/>
       <guid isPermaLink="false">he_nach_mishley17.mp3</guid>
-      <pubDate>Fri, 10 Mar 2023 06:00:00 -0000</pubDate>
+      <pubDate>Thu, 16 Mar 2023 12:00:00 -0000</pubDate>
       <itunes:duration>00:14:07</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
@@ -4923,7 +5373,7 @@
       <description>he nach mishley18</description>
       <enclosure url="https://op3.dev/e/https://archive.org/download/119_20260703/he_nach_mishley18.mp3" length="2684245" type="audio/mpeg"/>
       <guid isPermaLink="false">he_nach_mishley18.mp3</guid>
-      <pubDate>Fri, 10 Mar 2023 09:00:00 -0000</pubDate>
+      <pubDate>Thu, 16 Mar 2023 15:00:00 -0000</pubDate>
       <itunes:duration>00:11:10</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
@@ -4932,7 +5382,7 @@
       <description>he nach mishley19</description>
       <enclosure url="https://op3.dev/e/https://archive.org/download/119_20260703/he_nach_mishley19.mp3" length="3120803" type="audio/mpeg"/>
       <guid isPermaLink="false">he_nach_mishley19.mp3</guid>
-      <pubDate>Fri, 10 Mar 2023 12:00:00 -0000</pubDate>
+      <pubDate>Thu, 16 Mar 2023 18:00:00 -0000</pubDate>
       <itunes:duration>00:13:00</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
@@ -4941,7 +5391,7 @@
       <description>he nach mishley20</description>
       <enclosure url="https://op3.dev/e/https://archive.org/download/119_20260703/he_nach_mishley20.mp3" length="3213486" type="audio/mpeg"/>
       <guid isPermaLink="false">he_nach_mishley20.mp3</guid>
-      <pubDate>Fri, 10 Mar 2023 15:00:00 -0000</pubDate>
+      <pubDate>Thu, 16 Mar 2023 21:00:00 -0000</pubDate>
       <itunes:duration>00:13:23</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
@@ -4950,7 +5400,7 @@
       <description>he nach mishley31</description>
       <enclosure url="https://op3.dev/e/https://archive.org/download/119_20260703/he_nach_mishley31.mp3" length="3805838" type="audio/mpeg"/>
       <guid isPermaLink="false">he_nach_mishley31.mp3</guid>
-      <pubDate>Fri, 10 Mar 2023 18:00:00 -0000</pubDate>
+      <pubDate>Fri, 17 Mar 2023 00:00:00 -0000</pubDate>
       <itunes:duration>00:15:51</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
@@ -4959,7 +5409,7 @@
       <description>he nach mishley30</description>
       <enclosure url="https://op3.dev/e/https://archive.org/download/119_20260703/he_nach_mishley30.mp3" length="4529744" type="audio/mpeg"/>
       <guid isPermaLink="false">he_nach_mishley30.mp3</guid>
-      <pubDate>Fri, 10 Mar 2023 21:00:00 -0000</pubDate>
+      <pubDate>Fri, 17 Mar 2023 03:00:00 -0000</pubDate>
       <itunes:duration>00:18:52</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
@@ -4968,7 +5418,7 @@
       <description>he nach mishley22</description>
       <enclosure url="https://op3.dev/e/https://archive.org/download/119_20260703/he_nach_mishley22.mp3" length="3604278" type="audio/mpeg"/>
       <guid isPermaLink="false">he_nach_mishley22.mp3</guid>
-      <pubDate>Sat, 11 Mar 2023 00:00:00 -0000</pubDate>
+      <pubDate>Fri, 17 Mar 2023 06:00:00 -0000</pubDate>
       <itunes:duration>00:15:00</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
@@ -4977,7 +5427,7 @@
       <description>he nach mishley23</description>
       <enclosure url="https://op3.dev/e/https://archive.org/download/119_20260703/he_nach_mishley23.mp3" length="4123696" type="audio/mpeg"/>
       <guid isPermaLink="false">he_nach_mishley23.mp3</guid>
-      <pubDate>Sat, 11 Mar 2023 03:00:00 -0000</pubDate>
+      <pubDate>Fri, 17 Mar 2023 09:00:00 -0000</pubDate>
       <itunes:duration>00:17:10</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
@@ -4986,7 +5436,7 @@
       <description>he nach mishley24</description>
       <enclosure url="https://op3.dev/e/https://archive.org/download/119_20260703/he_nach_mishley24.mp3" length="3517238" type="audio/mpeg"/>
       <guid isPermaLink="false">he_nach_mishley24.mp3</guid>
-      <pubDate>Sat, 11 Mar 2023 06:00:00 -0000</pubDate>
+      <pubDate>Fri, 17 Mar 2023 12:00:00 -0000</pubDate>
       <itunes:duration>00:14:39</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
@@ -4995,7 +5445,7 @@
       <description>he nach mishley25</description>
       <enclosure url="https://op3.dev/e/https://archive.org/download/119_20260703/he_nach_mishley25.mp3" length="3267402" type="audio/mpeg"/>
       <guid isPermaLink="false">he_nach_mishley25.mp3</guid>
-      <pubDate>Sat, 11 Mar 2023 09:00:00 -0000</pubDate>
+      <pubDate>Fri, 17 Mar 2023 15:00:00 -0000</pubDate>
       <itunes:duration>00:13:36</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
@@ -5004,7 +5454,7 @@
       <description>he nach mishley26</description>
       <enclosure url="https://op3.dev/e/https://archive.org/download/119_20260703/he_nach_mishley26.mp3" length="2932931" type="audio/mpeg"/>
       <guid isPermaLink="false">he_nach_mishley26.mp3</guid>
-      <pubDate>Sat, 11 Mar 2023 12:00:00 -0000</pubDate>
+      <pubDate>Fri, 17 Mar 2023 18:00:00 -0000</pubDate>
       <itunes:duration>00:12:13</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
@@ -5013,7 +5463,7 @@
       <description>he nach mishley27</description>
       <enclosure url="https://op3.dev/e/https://archive.org/download/119_20260703/he_nach_mishley27.mp3" length="3089770" type="audio/mpeg"/>
       <guid isPermaLink="false">he_nach_mishley27.mp3</guid>
-      <pubDate>Sat, 11 Mar 2023 15:00:00 -0000</pubDate>
+      <pubDate>Fri, 17 Mar 2023 21:00:00 -0000</pubDate>
       <itunes:duration>00:12:52</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
@@ -5022,7 +5472,7 @@
       <description>he nach mishley28</description>
       <enclosure url="https://op3.dev/e/https://archive.org/download/119_20260703/he_nach_mishley28.mp3" length="2460323" type="audio/mpeg"/>
       <guid isPermaLink="false">he_nach_mishley28.mp3</guid>
-      <pubDate>Sat, 11 Mar 2023 18:00:00 -0000</pubDate>
+      <pubDate>Sat, 18 Mar 2023 00:00:00 -0000</pubDate>
       <itunes:duration>00:10:15</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
@@ -5031,458 +5481,8 @@
       <description>he nach mishley29</description>
       <enclosure url="https://op3.dev/e/https://archive.org/download/119_20260703/he_nach_mishley29.mp3" length="3009208" type="audio/mpeg"/>
       <guid isPermaLink="false">he_nach_mishley29.mp3</guid>
-      <pubDate>Sat, 11 Mar 2023 21:00:00 -0000</pubDate>
-      <itunes:duration>00:12:32</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>he nach iyov42</title>
-      <description>he nach iyov42</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/119_20260703/he_nach_iyov42.mp3" length="3149382" type="audio/mpeg"/>
-      <guid isPermaLink="false">he_nach_iyov42.mp3</guid>
-      <pubDate>Sun, 12 Mar 2023 00:00:00 -0000</pubDate>
-      <itunes:duration>00:13:07</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>he nach iyov1</title>
-      <description>he nach iyov1</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/119_20260703/he_nach_iyov1.mp3" length="3607006" type="audio/mpeg"/>
-      <guid isPermaLink="false">he_nach_iyov1.mp3</guid>
-      <pubDate>Sun, 12 Mar 2023 03:00:00 -0000</pubDate>
-      <itunes:duration>00:15:01</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>he nach iyov2</title>
-      <description>he nach iyov2</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/119_20260703/he_nach_iyov2.mp3" length="1966975" type="audio/mpeg"/>
-      <guid isPermaLink="false">he_nach_iyov2.mp3</guid>
-      <pubDate>Sun, 12 Mar 2023 06:00:00 -0000</pubDate>
-      <itunes:duration>00:08:11</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>he nach iyov3</title>
-      <description>he nach iyov3</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/119_20260703/he_nach_iyov3.mp3" length="3059677" type="audio/mpeg"/>
-      <guid isPermaLink="false">he_nach_iyov3.mp3</guid>
-      <pubDate>Sun, 12 Mar 2023 09:00:00 -0000</pubDate>
-      <itunes:duration>00:12:44</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>he nach iyov4</title>
-      <description>he nach iyov4</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/119_20260703/he_nach_iyov4.mp3" length="2406460" type="audio/mpeg"/>
-      <guid isPermaLink="false">he_nach_iyov4.mp3</guid>
-      <pubDate>Sun, 12 Mar 2023 12:00:00 -0000</pubDate>
-      <itunes:duration>00:10:01</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>he nach iyov5</title>
-      <description>he nach iyov5</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/119_20260703/he_nach_iyov5.mp3" length="4416321" type="audio/mpeg"/>
-      <guid isPermaLink="false">he_nach_iyov5.mp3</guid>
-      <pubDate>Sun, 12 Mar 2023 15:00:00 -0000</pubDate>
-      <itunes:duration>00:18:23</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>he nach iyov6</title>
-      <description>he nach iyov6</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/119_20260703/he_nach_iyov6.mp3" length="2863758" type="audio/mpeg"/>
-      <guid isPermaLink="false">he_nach_iyov6.mp3</guid>
-      <pubDate>Sun, 12 Mar 2023 18:00:00 -0000</pubDate>
-      <itunes:duration>00:11:55</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>he nach iyov7</title>
-      <description>he nach iyov7</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/119_20260703/he_nach_iyov7.mp3" length="2684767" type="audio/mpeg"/>
-      <guid isPermaLink="false">he_nach_iyov7.mp3</guid>
-      <pubDate>Sun, 12 Mar 2023 21:00:00 -0000</pubDate>
-      <itunes:duration>00:11:11</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>he nach iyov8</title>
-      <description>he nach iyov8</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/119_20260703/he_nach_iyov8.mp3" length="2916892" type="audio/mpeg"/>
-      <guid isPermaLink="false">he_nach_iyov8.mp3</guid>
-      <pubDate>Mon, 13 Mar 2023 00:00:00 -0000</pubDate>
-      <itunes:duration>00:12:09</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>he nach iyov9</title>
-      <description>he nach iyov9</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/119_20260703/he_nach_iyov9.mp3" length="3598166" type="audio/mpeg"/>
-      <guid isPermaLink="false">he_nach_iyov9.mp3</guid>
-      <pubDate>Mon, 13 Mar 2023 03:00:00 -0000</pubDate>
-      <itunes:duration>00:14:59</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>he nach iyov10</title>
-      <description>he nach iyov10</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/119_20260703/he_nach_iyov10.mp3" length="3134335" type="audio/mpeg"/>
-      <guid isPermaLink="false">he_nach_iyov10.mp3</guid>
-      <pubDate>Mon, 13 Mar 2023 06:00:00 -0000</pubDate>
-      <itunes:duration>00:13:03</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>he nach iyov11</title>
-      <description>he nach iyov11</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/119_20260703/he_nach_iyov11.mp3" length="2833456" type="audio/mpeg"/>
-      <guid isPermaLink="false">he_nach_iyov11.mp3</guid>
-      <pubDate>Mon, 13 Mar 2023 09:00:00 -0000</pubDate>
-      <itunes:duration>00:11:48</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>he nach iyov12</title>
-      <description>he nach iyov12</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/119_20260703/he_nach_iyov12.mp3" length="3205806" type="audio/mpeg"/>
-      <guid isPermaLink="false">he_nach_iyov12.mp3</guid>
-      <pubDate>Mon, 13 Mar 2023 12:00:00 -0000</pubDate>
-      <itunes:duration>00:13:21</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>he nach iyov13</title>
-      <description>he nach iyov13</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/119_20260703/he_nach_iyov13.mp3" length="3579253" type="audio/mpeg"/>
-      <guid isPermaLink="false">he_nach_iyov13.mp3</guid>
-      <pubDate>Mon, 13 Mar 2023 15:00:00 -0000</pubDate>
-      <itunes:duration>00:14:54</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>he nach iyov14</title>
-      <description>he nach iyov14</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/119_20260703/he_nach_iyov14.mp3" length="2534877" type="audio/mpeg"/>
-      <guid isPermaLink="false">he_nach_iyov14.mp3</guid>
-      <pubDate>Mon, 13 Mar 2023 18:00:00 -0000</pubDate>
-      <itunes:duration>00:10:33</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>he nach iyov15</title>
-      <description>he nach iyov15</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/119_20260703/he_nach_iyov15.mp3" length="4010325" type="audio/mpeg"/>
-      <guid isPermaLink="false">he_nach_iyov15.mp3</guid>
-      <pubDate>Mon, 13 Mar 2023 21:00:00 -0000</pubDate>
-      <itunes:duration>00:16:42</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>he nach iyov16</title>
-      <description>he nach iyov16</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/119_20260703/he_nach_iyov16.mp3" length="2576882" type="audio/mpeg"/>
-      <guid isPermaLink="false">he_nach_iyov16.mp3</guid>
-      <pubDate>Tue, 14 Mar 2023 00:00:00 -0000</pubDate>
-      <itunes:duration>00:10:44</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>he nach iyov17</title>
-      <description>he nach iyov17</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/119_20260703/he_nach_iyov17.mp3" length="2548461" type="audio/mpeg"/>
-      <guid isPermaLink="false">he_nach_iyov17.mp3</guid>
-      <pubDate>Tue, 14 Mar 2023 03:00:00 -0000</pubDate>
-      <itunes:duration>00:10:37</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>he nach iyov18</title>
-      <description>he nach iyov18</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/119_20260703/he_nach_iyov18.mp3" length="2666482" type="audio/mpeg"/>
-      <guid isPermaLink="false">he_nach_iyov18.mp3</guid>
-      <pubDate>Tue, 14 Mar 2023 06:00:00 -0000</pubDate>
-      <itunes:duration>00:11:06</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>he nach iyov19</title>
-      <description>he nach iyov19</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/119_20260703/he_nach_iyov19.mp3" length="4151491" type="audio/mpeg"/>
-      <guid isPermaLink="false">he_nach_iyov19.mp3</guid>
-      <pubDate>Tue, 14 Mar 2023 09:00:00 -0000</pubDate>
-      <itunes:duration>00:17:17</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>he nach iyov21</title>
-      <description>he nach iyov21</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/119_20260703/he_nach_iyov21.mp3" length="3939743" type="audio/mpeg"/>
-      <guid isPermaLink="false">he_nach_iyov21.mp3</guid>
-      <pubDate>Tue, 14 Mar 2023 12:00:00 -0000</pubDate>
-      <itunes:duration>00:16:24</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>he nach iyov22</title>
-      <description>he nach iyov22</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/119_20260703/he_nach_iyov22.mp3" length="3179893" type="audio/mpeg"/>
-      <guid isPermaLink="false">he_nach_iyov22.mp3</guid>
-      <pubDate>Tue, 14 Mar 2023 15:00:00 -0000</pubDate>
-      <itunes:duration>00:13:14</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>he nach iyov23</title>
-      <description>he nach iyov23</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/119_20260703/he_nach_iyov23.mp3" length="1686629" type="audio/mpeg"/>
-      <guid isPermaLink="false">he_nach_iyov23.mp3</guid>
-      <pubDate>Tue, 14 Mar 2023 18:00:00 -0000</pubDate>
-      <itunes:duration>00:07:01</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>he nach iyov24</title>
-      <description>he nach iyov24</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/119_20260703/he_nach_iyov24.mp3" length="3478420" type="audio/mpeg"/>
-      <guid isPermaLink="false">he_nach_iyov24.mp3</guid>
-      <pubDate>Tue, 14 Mar 2023 21:00:00 -0000</pubDate>
-      <itunes:duration>00:14:29</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>he nach iyov25</title>
-      <description>he nach iyov25</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/119_20260703/he_nach_iyov25.mp3" length="1003266" type="audio/mpeg"/>
-      <guid isPermaLink="false">he_nach_iyov25.mp3</guid>
-      <pubDate>Wed, 15 Mar 2023 00:00:00 -0000</pubDate>
-      <itunes:duration>00:04:10</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>he nach iyov26</title>
-      <description>he nach iyov26</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/119_20260703/he_nach_iyov26.mp3" length="1851514" type="audio/mpeg"/>
-      <guid isPermaLink="false">he_nach_iyov26.mp3</guid>
-      <pubDate>Wed, 15 Mar 2023 03:00:00 -0000</pubDate>
-      <itunes:duration>00:07:42</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>he nach iyov27</title>
-      <description>he nach iyov27</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/119_20260703/he_nach_iyov27.mp3" length="3015740" type="audio/mpeg"/>
-      <guid isPermaLink="false">he_nach_iyov27.mp3</guid>
-      <pubDate>Wed, 15 Mar 2023 06:00:00 -0000</pubDate>
-      <itunes:duration>00:12:33</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>he nach iyov28</title>
-      <description>he nach iyov28</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/119_20260703/he_nach_iyov28.mp3" length="4553307" type="audio/mpeg"/>
-      <guid isPermaLink="false">he_nach_iyov28.mp3</guid>
-      <pubDate>Wed, 15 Mar 2023 09:00:00 -0000</pubDate>
-      <itunes:duration>00:18:58</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>he nach iyov29</title>
-      <description>he nach iyov29</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/119_20260703/he_nach_iyov29.mp3" length="2188650" type="audio/mpeg"/>
-      <guid isPermaLink="false">he_nach_iyov29.mp3</guid>
-      <pubDate>Wed, 15 Mar 2023 12:00:00 -0000</pubDate>
-      <itunes:duration>00:09:07</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>he nach iyov30</title>
-      <description>he nach iyov30</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/119_20260703/he_nach_iyov30.mp3" length="3034495" type="audio/mpeg"/>
-      <guid isPermaLink="false">he_nach_iyov30.mp3</guid>
-      <pubDate>Wed, 15 Mar 2023 15:00:00 -0000</pubDate>
-      <itunes:duration>00:12:38</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>he nach iyov31</title>
-      <description>he nach iyov31</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/119_20260703/he_nach_iyov31.mp3" length="4406655" type="audio/mpeg"/>
-      <guid isPermaLink="false">he_nach_iyov31.mp3</guid>
-      <pubDate>Wed, 15 Mar 2023 18:00:00 -0000</pubDate>
-      <itunes:duration>00:18:21</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>he nach iyov32</title>
-      <description>he nach iyov32</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/119_20260703/he_nach_iyov32.mp3" length="2561836" type="audio/mpeg"/>
-      <guid isPermaLink="false">he_nach_iyov32.mp3</guid>
-      <pubDate>Wed, 15 Mar 2023 21:00:00 -0000</pubDate>
-      <itunes:duration>00:10:40</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>he nach iyov33</title>
-      <description>he nach iyov33</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/119_20260703/he_nach_iyov33.mp3" length="3163906" type="audio/mpeg"/>
-      <guid isPermaLink="false">he_nach_iyov33.mp3</guid>
-      <pubDate>Thu, 16 Mar 2023 00:00:00 -0000</pubDate>
-      <itunes:duration>00:13:10</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>he nach iyov34</title>
-      <description>he nach iyov34</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/119_20260703/he_nach_iyov34.mp3" length="4948487" type="audio/mpeg"/>
-      <guid isPermaLink="false">he_nach_iyov34.mp3</guid>
-      <pubDate>Thu, 16 Mar 2023 03:00:00 -0000</pubDate>
-      <itunes:duration>00:20:37</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>he nach iyov35</title>
-      <description>he nach iyov35</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/119_20260703/he_nach_iyov35.mp3" length="2949284" type="audio/mpeg"/>
-      <guid isPermaLink="false">he_nach_iyov35.mp3</guid>
-      <pubDate>Thu, 16 Mar 2023 06:00:00 -0000</pubDate>
-      <itunes:duration>00:12:17</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>he nach iyov36</title>
-      <description>he nach iyov36</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/119_20260703/he_nach_iyov36.mp3" length="3250475" type="audio/mpeg"/>
-      <guid isPermaLink="false">he_nach_iyov36.mp3</guid>
-      <pubDate>Thu, 16 Mar 2023 09:00:00 -0000</pubDate>
-      <itunes:duration>00:13:32</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>he nach iyov37</title>
-      <description>he nach iyov37</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/119_20260703/he_nach_iyov37.mp3" length="3025927" type="audio/mpeg"/>
-      <guid isPermaLink="false">he_nach_iyov37.mp3</guid>
-      <pubDate>Thu, 16 Mar 2023 12:00:00 -0000</pubDate>
-      <itunes:duration>00:12:36</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>he nach iyov38</title>
-      <description>he nach iyov38</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/119_20260703/he_nach_iyov38.mp3" length="3922084" type="audio/mpeg"/>
-      <guid isPermaLink="false">he_nach_iyov38.mp3</guid>
-      <pubDate>Thu, 16 Mar 2023 15:00:00 -0000</pubDate>
-      <itunes:duration>00:16:20</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>he nach iyov39</title>
-      <description>he nach iyov39</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/119_20260703/he_nach_iyov39.mp3" length="3108109" type="audio/mpeg"/>
-      <guid isPermaLink="false">he_nach_iyov39.mp3</guid>
-      <pubDate>Thu, 16 Mar 2023 18:00:00 -0000</pubDate>
-      <itunes:duration>00:12:56</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>he nach iyov40</title>
-      <description>he nach iyov40</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/119_20260703/he_nach_iyov40.mp3" length="3249588" type="audio/mpeg"/>
-      <guid isPermaLink="false">he_nach_iyov40.mp3</guid>
-      <pubDate>Thu, 16 Mar 2023 21:00:00 -0000</pubDate>
-      <itunes:duration>00:13:32</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>he nach iyov41</title>
-      <description>he nach iyov41</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/119_20260703/he_nach_iyov41.mp3" length="2515024" type="audio/mpeg"/>
-      <guid isPermaLink="false">he_nach_iyov41.mp3</guid>
-      <pubDate>Fri, 17 Mar 2023 00:00:00 -0000</pubDate>
-      <itunes:duration>00:10:28</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>he nach shir hashirim0</title>
-      <description>he nach shir hashirim0</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/119_20260703/he_nach_shir_hashirim0.mp3" length="2670557" type="audio/mpeg"/>
-      <guid isPermaLink="false">he_nach_shir_hashirim0.mp3</guid>
-      <pubDate>Fri, 17 Mar 2023 03:00:00 -0000</pubDate>
-      <itunes:duration>00:11:07</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>he nach shir hashirim1</title>
-      <description>he nach shir hashirim1</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/119_20260703/he_nach_shir_hashirim1.mp3" length="3157114" type="audio/mpeg"/>
-      <guid isPermaLink="false">he_nach_shir_hashirim1.mp3</guid>
-      <pubDate>Fri, 17 Mar 2023 06:00:00 -0000</pubDate>
-      <itunes:duration>00:13:09</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>he nach shir hashirim2</title>
-      <description>he nach shir hashirim2</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/119_20260703/he_nach_shir_hashirim2.mp3" length="2679178" type="audio/mpeg"/>
-      <guid isPermaLink="false">he_nach_shir_hashirim2.mp3</guid>
-      <pubDate>Fri, 17 Mar 2023 09:00:00 -0000</pubDate>
-      <itunes:duration>00:11:09</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>he nach shir hashirim3</title>
-      <description>he nach shir hashirim3</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/119_20260703/he_nach_shir_hashirim3.mp3" length="2010130" type="audio/mpeg"/>
-      <guid isPermaLink="false">he_nach_shir_hashirim3.mp3</guid>
-      <pubDate>Fri, 17 Mar 2023 12:00:00 -0000</pubDate>
-      <itunes:duration>00:08:22</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>he nach shir hashirim4</title>
-      <description>he nach shir hashirim4</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/119_20260703/he_nach_shir_hashirim4.mp3" length="3243945" type="audio/mpeg"/>
-      <guid isPermaLink="false">he_nach_shir_hashirim4.mp3</guid>
-      <pubDate>Fri, 17 Mar 2023 15:00:00 -0000</pubDate>
-      <itunes:duration>00:13:30</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>he nach shir hashirim5</title>
-      <description>he nach shir hashirim5</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/119_20260703/he_nach_shir_hashirim5.mp3" length="3406531" type="audio/mpeg"/>
-      <guid isPermaLink="false">he_nach_shir_hashirim5.mp3</guid>
-      <pubDate>Fri, 17 Mar 2023 18:00:00 -0000</pubDate>
-      <itunes:duration>00:14:11</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>he nach shir hashirim6</title>
-      <description>he nach shir hashirim6</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/119_20260703/he_nach_shir_hashirim6.mp3" length="2567269" type="audio/mpeg"/>
-      <guid isPermaLink="false">he_nach_shir_hashirim6.mp3</guid>
-      <pubDate>Fri, 17 Mar 2023 21:00:00 -0000</pubDate>
-      <itunes:duration>00:10:41</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>he nach shir hashirim7</title>
-      <description>he nach shir hashirim7</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/119_20260703/he_nach_shir_hashirim7.mp3" length="3003828" type="audio/mpeg"/>
-      <guid isPermaLink="false">he_nach_shir_hashirim7.mp3</guid>
-      <pubDate>Sat, 18 Mar 2023 00:00:00 -0000</pubDate>
-      <itunes:duration>00:12:30</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>he nach shir hashirim8</title>
-      <description>he nach shir hashirim8</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/119_20260703/he_nach_shir_hashirim8.mp3" length="3492631" type="audio/mpeg"/>
-      <guid isPermaLink="false">he_nach_shir_hashirim8.mp3</guid>
       <pubDate>Sat, 18 Mar 2023 03:00:00 -0000</pubDate>
-      <itunes:duration>00:14:33</itunes:duration>
+      <itunes:duration>00:12:32</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
