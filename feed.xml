@@ -5,6 +5,11 @@
     <description>התנ&quot;ך המבואר מפי הרב נפתלי וסרמן</description>
     <link>https://rabmeireliyahu.github.io/podcast</link>
     <language>he</language>
+    <image>
+      <url>https://rabmeireliyahu.github.io/podcast/cover.jpg</url>
+      <title>מחוברים לתורה-התנ״ך המבואר</title>
+      <link>https://rabmeireliyahu.github.io/podcast</link>
+    </image>
     <itunes:author>הרב נפתלי וסרמן</itunes:author>
     <itunes:owner>
       <itunes:name>הרב נפתלי וסרמן</itunes:name>
