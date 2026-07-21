@@ -10,7 +10,12 @@
       <itunes:name>הרב נפתלי וסרמן</itunes:name>
       <itunes:email>rabmeireliyahu@gmail.com</itunes:email>
     </itunes:owner>
-    <itunes:image href="https://rabmeireliyahu.github.io/podcast/portada.jpg"/>
+    <image>
+      <url>https://rabmeireliyahu.github.io/podcast/portada_202607211405.jpg</url>
+      <title>מחוברים לתורה-התנ״ך המבואר</title>
+      <link>https://rabmeireliyahu.github.io/podcast</link>
+    </image>
+    <itunes:image href="https://rabmeireliyahu.github.io/podcast/portada_202607211405.jpg"/>
     <itunes:category text="Religion &amp; Spirituality"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
