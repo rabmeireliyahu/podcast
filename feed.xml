@@ -2,7 +2,8 @@
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
   <channel>
     <title>מחוברים לתורה-התנ״ך המבואר</title>
-    <description>התנ"ך המבואר מפי הרב נפתלי וסרמן</description>
+    <description>כל התנ"ך פרק אחר פרק: תורה, נביאים וכתובים בסדר מלא. בראשית עד דברי הימים, עם ביאור והסבר לכל פרק. תהילים, משלי, איוב ומגילות - אוצר התורה.</description>
+    <itunes:summary>כל התנ"ך פרק אחר פרק: תורה, נביאים וכתובים בסדר מלא. בראשית עד דברי הימים, עם ביאור והסבר לכל פרק. תהילים, משלי, איוב ומגילות - אוצר התורה.</itunes:summary>
     <link>https://rabmeireliyahu.github.io/podcast</link>
     <language>he</language>
     <itunes:author>הרב נפתלי וסרמן</itunes:author>
